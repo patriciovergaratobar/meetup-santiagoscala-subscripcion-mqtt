@@ -15,7 +15,7 @@ A continuación se muestra una tabla de comparación entre el protocolo mqtt y h
 
 
 
-[tabla]: https://github.com/patriciovergaratobar/meetup-santiagoscala-subscripcion-mqtt/blob/master/anexos/internet-of-things-comparison-chart.png "Tabla de Comparación"
+![tabla](meetup-santiagoscala-subscripcion-mqtt/anexos/internet-of-things-comparison-chart.png)
 
 Ref: https://ibm.co/2BdReIZ
 
