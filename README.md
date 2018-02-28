@@ -13,6 +13,12 @@ A la comunicación de sensores u otros dispositivos, gracias al consumo que este
 
 A continuación se muestra una tabla de comparación entre el protocolo mqtt y http:
 
+
+
+[tabla]: https://github.com/patriciovergaratobar/meetup-santiagoscala-subscripcion-mqtt/blob/master/anexos/internet-of-things-comparison-chart.png "Tabla de Comparación"
+
+Ref: https://ibm.co/2BdReIZ
+
 # Mqtt en Scala
 
 Este ejemplo esta enfocado a mostrar una opción para establecer conexión por MQTT a un Broker con Scala utilizando la librería Paho.
@@ -46,7 +52,7 @@ Este proyecto contiene dos clases demos con un main las cuales son:
 
 * SuscripcionMqttEjemplo: Esta contiene el código que permite suscribir a distintos topics y recibir mensajes des un broker por medio del protocolo MQTT.
 
-Para probar este código es necesario tener levantado uno de los broker nombrados en la presentación adjunta en la carpeta ( [anexos/demoScalaMQTT](docs/CONTRIBUTING.md)) de enexos o puedes utilizar el ActiveMQ en Docker que dejo a continuación:
+Para probar este código es necesario tener levantado uno de los broker nombrados en la presentación adjunta en la carpeta ( [ScalaMQTT](https://drive.google.com/open?id=1gj4ikXWOL75jF4-hVZWNObzO0JXRKkyJo6-CmGJTCHg)) de anexos o puedes utilizar el ActiveMQ en Docker que dejo a continuación:
 
 ### Descargar ActiveMQ en Docker:
 
